@@ -14,7 +14,7 @@ class App extends Component {
         },
         {
           id: 2,
-          text: 'Make tea'
+          text: 'Sip tea'
         },
         {
           id: 3,
