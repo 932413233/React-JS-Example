@@ -10,7 +10,7 @@ class App extends Component {
       notes: [
         {
           id: 1,
-          text: 'Watch youtube'
+          text: 'Check facebook'
         },
         {
           id: 2,
